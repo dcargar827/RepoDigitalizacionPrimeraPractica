@@ -2,9 +2,9 @@
 
 ## Introducción a los Personajes
 
-En el Lands Between encontrarás una vasta galería de personajes, cada uno con **historias complejas** y **motivaciones profundas**. Esta sección explora a los **Semidioses** más importantes y sus roles en la narrativa.
+En las  Lands Between encontrarás una vasta galería de personajes, cada uno con **historias complejas** y **motivaciones profundas**. Esta sección explora a los **Semidioses** más importantes y sus roles en la narrativa.
 
-👈 **Volver a [Lore y Mundo](PrimerArchivo.md)**
+ **Volver a [Lore y Mundo](PrimerArchivo.md)**
 
 ---
 
@@ -149,7 +149,7 @@ Cada semidios posee una **Gran Runa** que otorga poder especial:
 ## Continúa tu Viaje
 
 Para aprender más sobre el **lore general** y el mundo del Elden Ring:
-👈 **[Volver a Lore y Mundo](PrimerArchivo.md)**
+ **[Volver a Lore y Mundo](PrimerArchivo.md)**
 
 ---
 
