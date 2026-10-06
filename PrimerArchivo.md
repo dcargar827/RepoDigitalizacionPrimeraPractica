@@ -4,7 +4,7 @@
 
 Bienvenido a la guía completa sobre **Elden Ring**, una de las obras maestras de FromSoftware. Este documento te sumergirá en el **lore expansivo** y la historia del Lands Between.
 
-![Elden Ring Logo](https://images.igdb.com/igdb/image/scale_huge/co6pq6.jpg)
+![Elden Ring Logo]()
 
 ---
 
@@ -25,7 +25,7 @@ La **Orden de Oro** es el sistema actual de gobernanza, mantenido por la **Reina
 
 La **Noche de Cristal** fue un evento catastrófico donde Marika rompió el Elden Ring con propósito desconocido. Sus fragmentos, las **Grandes Runas**, se dispersaron entre los semidioses más poderosos.
 
-![Elden Ring Fragmentado](https://i.pinimg.com/originals/3a/4b/5c/3a4b5c8e9c7d6f5e4d3c2b1a0f9e8d7c.jpg)
+![Elden Ring Fragmentado]()
 
 ---
 
