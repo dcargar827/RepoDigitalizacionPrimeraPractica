@@ -10,7 +10,7 @@ En las  Lands Between encontrarás una vasta galería de personajes, cada uno co
 
 ## Radahn, el Señor de la Guerra
 
-![Radahn](https://images.wikia.nocookie.net/fategrandorder/images/1/18/Radahn.png)
+![Radahn]([https://images.wikia.nocookie.net/fategrandorder/images/1/18/Radahn.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfYZvoWS-82TppZAgjCJ4-14tsWNeqeo7M_qvKOPy3A&s=10))
 
 **Radahn** es uno de los Semidioses más poderosos y temibles del juego.
 
